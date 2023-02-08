@@ -1,0 +1,7 @@
+.App {
+  font-family: sans-serif;
+}
+
+div[role="presentation"] div:first-of-type {
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
